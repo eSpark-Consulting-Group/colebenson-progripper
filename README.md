@@ -21,6 +21,7 @@ The product should be compatible with LSS PRO Servos PCB design (electrical and 
 * Reading encoder position and/or the new method of ripple counting. The more that's done by the motor controller, the better. but traveler's absolute linear position will be required in the end (convert rotations to linear position)
 * TI Article [Sensorless position and speed control](https://www.ti.com/lit/ab/slvafr5/slvafr5.pdf)
 * The motor datasheet is pushed to docs folder. It also contains a more detailed PRD received from client!
+* PCB mount temperature sensor on either top board or bottom board (depending on which board will have the MCU or most sensitive to heat circuitry). This sensor will be for measuring PCB temperature only.
 
 ## Nomenclature (Concept Image)
 ![image](https://github.com/eSpark-Consultants/colebenson-progripper/assets/76909080/5089d6a5-9739-4b5f-8e6c-280b75a84de4)
