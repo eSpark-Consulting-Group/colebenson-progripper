@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=CAN-Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN-Sheet.SchDoc|FileName=Connector-Sheet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CAN-Sheet.SchDoc|FileName=Controller-Sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN-Sheet.SchDoc|FileName=Current-Sense-Sheet.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CAN-Sheet.SchDoc|FileName=Motor-Driver-Sheet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CAN-Sheet.SchDoc|FileName=Power-Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN-Sheet.SchDoc|FileName=Signal-Isolation-Sheet.SchDoc|SheetNumber=7

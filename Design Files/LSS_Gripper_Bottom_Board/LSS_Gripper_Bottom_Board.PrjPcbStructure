@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Controller-Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=Motor-Connector.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=Motor-Driver-Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=Signal-Isolation-Sheet.SchDoc|SheetNumber=4
