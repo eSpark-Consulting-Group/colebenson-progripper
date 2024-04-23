@@ -9,8 +9,8 @@ The product should be compatible with LSS PRO Servos PCB design (electrical and 
 * DC Motor Controllers
     * Current detection (ideally stall detection and within motor controller but accessible to microcontroller)
 * Connector on the DC Motor is [ZHR-6](https://github.com/eSpark-Consultants/colebenson-progripper/files/14555300/0900766b81357f31.pdf). Appropriate mating will be required on the PCB.
-* XT60 Connector (~30 to 36V input, perhaps a bit more for max). These should be same as LSS PRO Servos.
-* RJ45 Connector (same pinout as PRO servos)
+* XT60 Connector (~30 to 36V input, perhaps a bit more for max). These should be same as LSS PRO Servos. This should be on top board.
+* RJ45 Connector (same pinout as PRO servos). This should be on bottom board.
 * USB for reprogramming and firmware updates
 * RGB LED at 90 degrees
 * Button at 90 degrees
