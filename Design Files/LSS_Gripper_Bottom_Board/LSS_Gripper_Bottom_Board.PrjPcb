@@ -100,23 +100,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UXDEIJSE
 
 [Document4]
-DocumentPath=Signal-Isolation-Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WWFZQLID
-
-[Document5]
 DocumentPath=Controller-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=Connector-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRBRTVNH
 
-[Document7]
+[Document6]
 DocumentPath=Motor-Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=Motor-Driver-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,24 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
-DocumentPath=Signal-Isolation-Sheet.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
+[Document8]
 DocumentPath=Connector-Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=Top-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +199,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MLAHDNRU
+DocumentUniqueId=EYMADBYI
+
+[Document10]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXKFUVMC
 
 [Configuration1]
 Name=Sources
