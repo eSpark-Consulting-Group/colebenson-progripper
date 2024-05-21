@@ -15,7 +15,6 @@ The product should be compatible with LSS PRO Servos PCB design (electrical and 
 * RGB LED at 90 degrees and placed on top side of bottom PCB. Appropriate glass pipe should be selected to expose light from near the RJ45 connector.
 * Button should be vertical type about ~ 6.5 - 7mm height and placed on bottom side of bottom PCB.
 * All right angled peripherals being exposed from upper side of boards should be only 1.5mm outside the PCB edge.
-* 
 * Proposed Motor Driver chips
     * [DRV8214](https://www.ti.com/lit/ds/symlink/drv8214.pdf)
     * [DRV8234](https://www.ti.com/lit/ds/symlink/drv8234.pdf)
