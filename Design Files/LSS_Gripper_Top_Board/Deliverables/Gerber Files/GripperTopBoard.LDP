@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\eSpark-Consultants\colebenson-progripper\Design Files\LSS_Gripper_Top_Board\GripperTopBoard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=grippertopboard.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=grippertopboard-rectholes.txt|DrillLayers=gtl,gbl
